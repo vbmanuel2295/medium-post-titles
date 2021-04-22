@@ -25,4 +25,4 @@ Accuracy: 68.86
 Error Rate: 31.14
  ```
 
- ## Not bad for starters.
+ Not bad for starters.
